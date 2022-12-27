@@ -1,0 +1,6 @@
+com/dice/base/BasePageObject.class
+com/dice/base/BaseTest.class
+com/dice/base/CsvDataProvider.class
+com/dice/pages/LoginPage.class
+com/dice/pages/ProfilePage.class
+com/dice/base/BrowserFactory.class
